@@ -1,8 +1,8 @@
 trigger:
-- main
+- master  
 
 pool:
-  vmImage: 'windows-latest'
+  name: 'Default'
 
 name: 'jian_quiz4_ci_dotnet'
 
